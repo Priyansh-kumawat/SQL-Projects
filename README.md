@@ -1,2 +1,2 @@
 This repository consist of basic and useful as well as conceptual information regarding SQL.
-Here I am going to add some beginner friendly projects in Sql.
+Projects play a crucial role to understand concepts thoroughly, so try some of these and get a hands on experience.
